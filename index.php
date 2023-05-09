@@ -10,6 +10,7 @@
   <h2>Follow each link to the page example</h2>
   <ul>
       <li><a href="ifstatement.php">Simple If Statement</a></li>
+      <li><a href="switchstatement.php">Simple Switch Statement</a></li>
   </ul>
   <h1>Hello World</h1>
 
